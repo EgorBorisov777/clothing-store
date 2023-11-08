@@ -1,3 +1,6 @@
+![image](https://github.com/EgorBorisov777/clothing-store/assets/102162946/11b73923-5116-4f03-b2ac-ca433b3664a6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
